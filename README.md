@@ -3,12 +3,13 @@
 
 Main Requirements:
 
-Python 3	
-Lasagne	
-Theano	
-OpenCv	
-dlib	
-numpy	
+1. Python 3	
+2. Lasagne	
+3. Theano	
+4. OpenCv	
+5. dlib	
+6. numpy	
+
 jupyter notebook	
 
 Dataset link:	
